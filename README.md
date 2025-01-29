@@ -7,7 +7,8 @@
 
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiihyun12&layout=compact)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiihyun12&show_icons=true)
+
 
 
 
@@ -15,7 +16,8 @@
 </br>
 
 ### 🎨 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiihyun12&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiihyun12&layout=compact)
+
 
 
 
