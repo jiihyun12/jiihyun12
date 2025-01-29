@@ -1,7 +1,7 @@
 
 ## Profile
 📞 **Email** | j22h.h0h@gmail.com <br />
-✉ **Phone** | 010-8564-9679
+✉ **Phone** | 010-8564-9679 <br />
 ✏️ **BLOG** | https://blog.naver.com/dyun_d/223516080846
 
 
@@ -13,7 +13,7 @@
 
 
 
-</br>
+<br />
 
 ### 🎨 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiihyun12&layout=compact)
@@ -21,7 +21,7 @@
 
 
 
-</br>
+<br />
 
 
 <!--
