@@ -4,7 +4,7 @@
 <br />
 ✉ **Phone** | 010-8564-9679 <br />
 <br />
-✏️ **BLOG** | https://blog.naver.com/dyun_d/223516080846
+✏️ **BLOG** | https://blog.naver.com/dyun_d
 <br />
 <br />
 
