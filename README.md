@@ -18,7 +18,7 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jiihyun12)
 
 ### 📝 Programmers
-(https://programmers.co.kr/users/profile)
+[README.md](https://programmers.co.kr/users/challenge-activity)
 
 
 <!--
