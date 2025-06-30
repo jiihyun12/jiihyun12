@@ -17,9 +17,6 @@
 ### 📝 BAEKJOON
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jiihyun12)
 
-![프로그래머스](https://img.shields.io/badge/Programmers-35문제풀이-blue)
-
-
 
 <!--
 **jiihyun12/jiihyun12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
