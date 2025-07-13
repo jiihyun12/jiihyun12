@@ -16,7 +16,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiihyun12&layout=compact)
 
 ---
-## 📝
+## 📝 study
+
 ### BaekJoon
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jiihyun12)
 
