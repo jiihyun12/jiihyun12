@@ -9,6 +9,7 @@
 <br />
 
 ---
+
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiihyun12&show_icons=true)
 <br />
@@ -16,6 +17,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiihyun12&layout=compact)
 
 ---
+
 ## 📝 study
 
 ### BaekJoon
