@@ -23,8 +23,7 @@
 ### BaekJoon
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jiihyun12)
 
-### Programmers
-[Programmers](https://programmers.co.kr/users/challenge-activity)
+
 
 
 <!--
