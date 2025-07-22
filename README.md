@@ -21,8 +21,8 @@
 ### 🎨 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiihyun12&layout=compact)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=jiihyun12)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
