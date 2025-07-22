@@ -17,6 +17,7 @@
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiihyun12&show_icons=true)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=jiihyun12)](https://github.com/ryo-ma/github-profile-trophy)
 <br />
 
