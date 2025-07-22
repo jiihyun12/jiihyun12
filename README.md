@@ -21,9 +21,6 @@
 ### 🎨 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiihyun12&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jiihyun12)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ---
 
 ## 📝 study
@@ -49,5 +46,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jiihyun12)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
