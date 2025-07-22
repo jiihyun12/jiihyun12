@@ -1,5 +1,11 @@
 
 ## Profile  ![Visitor Count](https://komarev.com/ghpvc/?username=jiihyun12&color=brightgreen)
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Dyun+👋;Java+Backend+Developer;Always+Learning+💻">
+</h1>
+
+
 📞 **Email** | j22h.h0h@gmail.com <br />
 <br />
 ✉ **Phone** | 010-8564-9679 <br />
@@ -9,10 +15,6 @@
 <br />
 
 ---
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+JiHyun+👋;Java+Backend+Developer;Always+Learning+💻">
-</h1>
-
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiihyun12&show_icons=true)
 <br />
