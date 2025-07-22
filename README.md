@@ -1,5 +1,5 @@
 
-## Profile
+## Profile  ![Visitor Count](https://komarev.com/ghpvc/?username=jiihyun12&color=brightgreen)
 📞 **Email** | j22h.h0h@gmail.com <br />
 <br />
 ✉ **Phone** | 010-8564-9679 <br />
@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor Count](https://komarev.com/ghpvc/?username=jiihyun12&color=brightgreen)
+
