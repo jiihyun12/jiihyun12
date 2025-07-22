@@ -17,7 +17,9 @@
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiihyun12&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jiihyun12)](https://github.com/ryo-ma/github-profile-trophy)
 <br />
+
 ### 🎨 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiihyun12&layout=compact)
 
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
 -->
 
 ---
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jiihyun12)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
