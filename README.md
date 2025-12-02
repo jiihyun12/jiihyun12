@@ -31,8 +31,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-### 🏙 My GitHub Skyline
-https://skyline.github.com/jiihyun12/
+[![An image of @jiihyun12's Holopin badges](https://holopin.me/jiihyun12)](https://holopin.io/@jiihyun12)
 
 
 ## 📝 study
