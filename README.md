@@ -31,6 +31,15 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+### 🎨 Most Used Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiihyun12&theme=tokyonight" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiihyun12&theme=tokyonight" height="180">
+</p>
+
+
+
 
 
 ## 📝 study
