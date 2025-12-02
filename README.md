@@ -34,8 +34,8 @@
 ### 🎨 Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiihyun12&theme=tokyonight" height="180">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiihyun12&theme=tokyonight" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiihyun12&theme=2077" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiihyun12&theme=2077" height="180">
 </p>
 
 
