@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://i.gifer.com/origin/92/927c8ebfdafec5d8db10463026d4563f_w200.gif" width="400">
-</p>
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Dyun+👋;FullStack+Developer💻;">
 </h1>
@@ -36,6 +31,9 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=footer&text=Made%20by%20JIHYUN&fontSize=18&fontColor=ffffff" />
+</p>
 
 
 ## 📝 study
