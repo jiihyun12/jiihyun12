@@ -24,7 +24,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiihyun12&theme=github)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jiihyun12&theme=default)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jiihyun12)]()
 
 
 
