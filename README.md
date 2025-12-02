@@ -30,8 +30,10 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:4f46e5&height=180&section=header&text=JIHYUN%20DEV&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-[![An image of @jiihyun12's Holopin badges](https://holopin.me/jiihyun12)](https://holopin.io/@jiihyun12)
 
 
 ## 📝 study
