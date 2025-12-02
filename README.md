@@ -20,10 +20,9 @@
 <br />
 
 ### 🎨 Most Used Languages
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiihyun12&layout=compact) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiihyun12&layout=compact&theme=transparent&v=2)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiihyun12&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiihyun12&theme=github)
 
----
 
 ## 📝 study
 
