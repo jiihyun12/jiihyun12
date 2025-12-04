@@ -15,10 +15,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jiihyun12&show_icons=true&theme=tokyonight" height="170">
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jiihyun12&theme=onestar&margin-w=15" />
   </a>
