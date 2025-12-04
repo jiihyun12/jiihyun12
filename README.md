@@ -19,6 +19,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiihyun12&theme=github" height="250">
 </h1>
 
+---
+
 ## 🚀 Skills
 
 ### 🖥 Backend Development
