@@ -17,7 +17,7 @@
 <h1 align = "left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiihyun12&theme=github" height="250">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiihyun12&theme=github" height="250">
-<</h1>
+</h1>
 ---
 
 ## 🚀 Skills
