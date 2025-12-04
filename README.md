@@ -13,14 +13,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=jiihyun12&theme=onestar&margin-w=15" />
-  </a>
-</p>
-
----
-
 ## 🎨 Most Used Languages
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiihyun12&theme=github" height="150">
