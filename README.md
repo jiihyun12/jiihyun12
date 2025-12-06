@@ -14,7 +14,7 @@
 ---
 
 ## 📈 Activity Details
-<p align="center">
+<p align="ㅣㄴㄽ">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiihyun12&theme=tokyonight" />
 </p>
 
@@ -26,8 +26,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiihyun12&theme=github" height="250">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiihyun12&theme=github" height="250">
 </h1>
-
-<img src="https://github-readme-stats.vercel.app/api?username=jiihyun12&show_icons=true&theme=tokyonight" />
 
 ---
 
