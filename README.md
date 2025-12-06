@@ -77,7 +77,7 @@
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=jiihyun12&theme=nord_dark" />
+  <img src="https://streak-stats.demolab.com?user=jiihyun12&theme=ocean_dark" />
 </p>
 
 ---
