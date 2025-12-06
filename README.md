@@ -71,14 +71,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jiihyun12&theme=tokyonight&column=6&margin-w=10" />
-</p>
-
----
-
 ## 📈 Activity Details
-<p align="ㅣㄴㄽ">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiihyun12&theme=tokyonight" />
 </p>
 
