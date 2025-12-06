@@ -73,11 +73,11 @@
 
 ## 📈 Activity Details
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiihyun12&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiihyun12&theme=blue_night" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=jiihyun12&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=jiihyun12&theme=blue_night" />
 </p>
 
 ---
