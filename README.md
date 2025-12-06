@@ -63,6 +63,14 @@
 
 ---
 
+## 🎨 Most Used Languages
+<h1 align = "left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiihyun12&theme=github" height="250">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiihyun12&theme=github" height="250">
+</h1>
+
+---
+
 ## 📈 Activity Details
 <p align="ㅣㄴㄽ">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiihyun12&theme=tokyonight" />
@@ -71,17 +79,6 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=jiihyun12&theme=tokyonight" />
 </p>
-
-
----
-
-## 🎨 Most Used Languages
-<h1 align = "left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiihyun12&theme=github" height="250">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiihyun12&theme=github" height="250">
-</h1>
-
----
 
 ---
 
