@@ -27,6 +27,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiihyun12&theme=github" height="250">
 </h1>
 
+<img src="https://github-readme-stats.vercel.app/api?username=jiihyun12&show_icons=true&theme=tokyonight" />
+
 ---
 
 ## 🚀 Skills
