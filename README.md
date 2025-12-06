@@ -18,6 +18,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiihyun12&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jiihyun12&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiihyun12&theme=tokyonight" />
+</p>
+
 
 ---
 
