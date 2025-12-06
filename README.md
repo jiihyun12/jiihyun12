@@ -72,7 +72,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jiihyun12&theme=gruvbox&column=7&row=1&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jiihyun12&theme=tokyonight&column=6&margin-w=10" />
 </p>
 
 ---
