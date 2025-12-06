@@ -71,6 +71,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jiihyun12&theme=gruvbox&column=7&row=1&margin-w=15&margin-h=15" />
+</p>
+
+---
+
 ## 📈 Activity Details
 <p align="ㅣㄴㄽ">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiihyun12&theme=tokyonight" />
