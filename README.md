@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Dyun+👋;FullStack+Developer💻;">
 </h1>
 
-## Profile  ![Hits](https://hits.sh/jiihyun12.svg?view=today)
+## Profile ![Today Visitors](https://hits.sh/jiihyun12.svg?view=today)
 
 📞 **Email** | j22h.h0h@gmail.com <br />
 <br />
