@@ -77,10 +77,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiihyun12&theme=nord_dark" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=jiihyun12&theme=ocean_dark" />
-</p>
-
 ---
 
 ## 📝 Study
