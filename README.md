@@ -32,12 +32,6 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ERD](https://img.shields.io/badge/ERD_Design-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 ### ⚙ Industrial Automation / SCADA
 ![Ignition](https://img.shields.io/badge/Ignition-F89C1C?style=for-the-badge&logo=databricks&logoColor=black)
 ![OPC UA](https://img.shields.io/badge/OPC_UA-000000?style=for-the-badge&logo=opc-foundation&logoColor=white)
@@ -45,6 +39,12 @@
 ![SNMP](https://img.shields.io/badge/SNMP-009639?style=for-the-badge&logo=cisco&logoColor=white)
 ![Jython](https://img.shields.io/badge/Jython-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Automation](https://img.shields.io/badge/Industrial_Automation-005571?style=for-the-badge&logo=siemens&logoColor=white)
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🛠 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
