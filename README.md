@@ -35,8 +35,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ERD](https://img.shields.io/badge/ERD_Design-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![SQL_Tuning](https://img.shields.io/badge/SQL_Tuning-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Data_Modeling](https://img.shields.io/badge/Data_Modeling-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### ⚙ Industrial Automation / SCADA
 ![Ignition](https://img.shields.io/badge/Ignition-F89C1C?style=for-the-badge&logo=databricks&logoColor=black)
