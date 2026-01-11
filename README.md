@@ -70,10 +70,11 @@
 
 
 ## 🎨 Most Used Languages
-<h1 align = "left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiihyun12&theme=github" height="250">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiihyun12&theme=github" height="250">
-</h1>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiihyun12&layout=compact&langs_count=8&theme=default" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jiihyun12&show_icons=true&theme=default&hide_title=false&count_private=true" height="250"/>
+</p>
+
 
 ---
 
