@@ -70,18 +70,19 @@
 
 
 ## 🎨 Most Used Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiihyun12&layout=compact&langs_count=8&theme=default" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jiihyun12&show_icons=true&theme=default&hide_title=false&count_private=true" height="250"/>
-</p>
 
 
 ---
 
 ## 📈 Activity Details
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiihyun12&theme=nord_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiihyun12&theme=default" height="180"/>
 </p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiihyun12&theme=github-compact" />
+</p>
+
 
 ---
 
