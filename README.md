@@ -68,8 +68,11 @@
 
 ---
 
-
 ## 🎨 Most Used Languages
+<p align="left">
+  <img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" height="250" />
+  <img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" height="250" />
+</p>
 
 
 ---
