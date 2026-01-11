@@ -75,6 +75,9 @@
 ---
 
 ## 📈 Activity Details
+<p align="left">
+  <img src="./profile-summary-card-output/nord_dark/0-profile-details.svg" />
+</p>
 
 
 ---
