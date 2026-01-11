@@ -75,13 +75,6 @@
 ---
 
 ## 📈 Activity Details
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiihyun12&theme=default" height="180"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiihyun12&theme=github-compact" />
-</p>
 
 
 ---
