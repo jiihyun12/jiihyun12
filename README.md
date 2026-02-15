@@ -8,9 +8,6 @@
 <br />
 ✉ **Phone** | 010-8564-9679 <br />
 <br />
-<!-- ✏️ **BLOG** | https://blog.naver.com/dyun_d -- !>  
-<br />
-
 ---
 
 ## 🚀 Skills
@@ -92,6 +89,7 @@
 ### 🧩 Programmers  
 [Programmers](https://programmers.co.kr/users/challenge-activity)
 
+<!-- ✏️ **BLOG** | https://blog.naver.com/dyun_d -- !>  
 
 <!--
 **jiihyun12/jiihyun12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
