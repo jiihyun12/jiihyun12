@@ -3,7 +3,7 @@
 </h1>
 
 ## Profile 
-<h2>👤 Industrial Software Engineer</h2>
+<b>👤 Industrial Software Engineer< /b>
 ✉ <a href="mailto:j22h.h0h@gmail.com">j22h.h0h@gmail.com</a>
 
 
