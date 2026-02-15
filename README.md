@@ -3,9 +3,8 @@
 </h1>
 
 ## Profile 
-
-✉ **Email** | j22h.h0h@gmail.com <br />
-📞 **Phone** | 010-8564-9679 <br />
+Software Engineer <br />
+✉ **Email** | j22h.h0h@gmail.com
 
 ---
 ## 🚀 Skills
