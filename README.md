@@ -4,8 +4,8 @@
 
 ## Profile 
 
-📞 **Email** | j22h.h0h@gmail.com <br />
-✉ **Phone** | 010-8564-9679 <br />
+✉ **Email** | j22h.h0h@gmail.com <br />
+📞 **Phone** | 010-8564-9679 <br />
 
 ---
 ## 🚀 Skills
