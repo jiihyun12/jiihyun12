@@ -1,10 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Dyun+👋;Industrial Software Engineer💻;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Dyun+👋;Industrial+Software+Engineer 💻;">
 </h1>
 
 ## Profile 
-Industrial Software Engineer 
-✉ **Email** | j22h.h0h@gmail.com
+<p>
+  <b>Industrial Software Engineer</b><br>
+  ✉ <a href="mailto:j22h.h0h@gmail.com">j22h.heh@gmail.com</a>
+</p>
 
 ---
 ## 🚀 Skills
