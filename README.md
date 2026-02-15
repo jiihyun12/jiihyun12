@@ -5,7 +5,7 @@
 ## Profile 
 <p>
   <b>Industrial Software Engineer</b><br>
-  ✉ <a href="mailto:j22h.h0h@gmail.com">j22h.heh@gmail.com</a>
+  ✉ <a href="mailto:j22h.h0h@gmail.com">j22h.h0h@gmail.com</a>
 </p>
 
 ---
