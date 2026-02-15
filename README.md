@@ -2,13 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Dyun+👋;">
 </h1>
 
-## Profile 
+## 👤 Profile 
 <p >
-  👤 Industrial Software Engineer </ br>
+  <b> Industrial Software Engineer </b><br>
   ✉ <a href="mailto:j22h.h0h@gmail.com">j22h.h0h@gmail.com</a>
 </p>
-
-
 
 ---
 ## 🚀 Skills
