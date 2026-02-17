@@ -12,14 +12,6 @@
 ---
 ## 🚀 Skills
 
-```bash
-Industrial Automation: Ignition, OPC UA, MQTT, SCADA
-Backend: Python, Java, Spring Boot, MyBatis
-Database: MariaDB, MySQL, Oracle, MongoDB
-Frontend: JavaScript, React
-Tools: Git, GitHub, IntelliJ, VSCode
-
-
 ### 🖥 Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
