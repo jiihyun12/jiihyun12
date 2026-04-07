@@ -10,7 +10,6 @@
   ✉ <a href="mailto:j22h.h0h@gmail.com">j22h.h0h@gmail.com</a>
 </p>
 
-
 ---
 ## 🚀 Skills
 
