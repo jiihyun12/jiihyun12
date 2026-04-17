@@ -4,7 +4,8 @@
 
 ## 👤 Profile 
 <p > 
-  🏢 <b> 에스엔아이티씨(주) Software Engineer </b> <br>
+  🏢 <a href"http://www.snitc.co.kr"> 에스엔아이티씨(주) Software Engineer </a> <br>
+  
   ✉ <a href="mailto:j22h.h0h@gmail.com">j22h.h0h@gmail.com</a>
 </p>
 
