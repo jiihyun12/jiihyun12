@@ -57,7 +57,7 @@
 <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) -->
 
-### 🎬 Design & Creative
+<!-- ### 🎬 Design & Creative -->
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![After Effects](https://img.shields.io/badge/AfterEffects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
