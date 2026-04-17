@@ -58,11 +58,11 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) -->
 
 <!-- ### 🎬 Design & Creative -->
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+<!-- ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![After Effects](https://img.shields.io/badge/AfterEffects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/PremierePro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Cinema4D](https://img.shields.io/badge/Cinema4D-011A6A?style=for-the-badge&logo=maxon&logoColor=white)
+![Cinema4D](https://img.shields.io/badge/Cinema4D-011A6A?style=for-the-badge&logo=maxon&logoColor=white) -->
 
 ---
 
