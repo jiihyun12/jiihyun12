@@ -10,15 +10,14 @@
 
 ---
 ## 🚀 Tech Stack & Learning
+
 ### ⚙ Industrial Automation / SCADA
 ![Ignition](https://img.shields.io/badge/Ignition-F89C1C?style=for-the-badge&logo=databricks&logoColor=black)
 ![Jython](https://img.shields.io/badge/Jython-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OPC UA](https://img.shields.io/badge/OPC_UA-000000?style=for-the-badge&logo=opc-foundation&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
-### 🖥 Backend & Data (Learning & Exploring)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🖥 DataBase
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
