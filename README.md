@@ -5,7 +5,6 @@
 ## 👤 Profile
 <p>
   🏢 <b> <a href="http://www.snitc.co.kr" target="_blank">에스엔아이티씨(주)</a> Software Engineer </b> (2025. 06. ~ Present) <br>
-  🌱 SCADA 시스템 구축 및 예지보전(PdM)에 관심을 두고 꾸준히 성장하고 있습니다.<br>
   ✉ <a href="mailto:j22h.h0h@gmail.com">j22h.h0h@gmail.com</a>
 </p>
 
