@@ -38,7 +38,7 @@
 ![Ignition](https://img.shields.io/badge/Ignition-F89C1C?style=for-the-badge&logo=databricks&logoColor=black)
 ![Automation](https://img.shields.io/badge/Industrial_Automation-005571?style=for-the-badge&logo=siemens&logoColor=white)
 ![Jython](https://img.shields.io/badge/Jython-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[OPC UA](https://img.shields.io/badge/OPC_UA-000000?style=for-the-badge&logo=opc-foundation&logoColor=white)
+![OPC UA](https://img.shields.io/badge/OPC_UA-000000?style=for-the-badge&logo=opc-foundation&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 <!-- ![SNMP](https://img.shields.io/badge/SNMP-009639?style=for-the-badge&logo=cisco&logoColor=white) -->
 
