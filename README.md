@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Dyun+👋;">
 </h1>
 
-## 👤 Profile 
-<p > 
-  🏢 <a href"http://www.snitc.co.kr" 에스엔아이티씨(주)> Software Engineer </a> <br>
-  
+## 👤 Profile
+<p>
+  🏢 <b> <a href="http://www.snitc.co.kr">에스엔아이티씨(주)</a> Software Engineer </b> <br>
+
   ✉ <a href="mailto:j22h.h0h@gmail.com">j22h.h0h@gmail.com</a>
 </p>
 
