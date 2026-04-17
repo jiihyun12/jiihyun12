@@ -4,7 +4,7 @@
 
 ## 👤 Profile 
 <p >
-  <b> Industrial Software Engineer </b><br>
+  <b> Industrial Software Engineer </b><br> 
   
   
   ✉ <a href="mailto:j22h.h0h@gmail.com">j22h.h0h@gmail.com</a>
@@ -13,7 +13,7 @@
 ---
 ## 🚀 Skills
 
-### 🖥 Backend Development
+<!-- ### 🖥 Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -23,7 +23,7 @@
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![RESTful](https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
 
 ### 💾 Database
 ![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
