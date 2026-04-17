@@ -32,7 +32,7 @@
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ERD](https://img.shields.io/badge/ERD_Design-4479A1?style=for-the-badge&logo=databricks&logoColor=white) -->
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<!-- ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) -->
 
 <!-- ### ⚙ Industrial Automation / SCADA -->
 <!-- ![Automation](https://img.shields.io/badge/Industrial_Automation-005571?style=for-the-badge&logo=siemens&logoColor=white) -->
