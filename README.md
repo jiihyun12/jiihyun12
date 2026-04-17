@@ -3,10 +3,8 @@
 </h1>
 
 ## 👤 Profile 
-<p >
-  <b> Industrial Software Engineer </b><br> 
-  
-  
+<p > 
+  🏢 <b> 에스엔아이티씨(주) Software Engineer </b> <br>
   ✉ <a href="mailto:j22h.h0h@gmail.com">j22h.h0h@gmail.com</a>
 </p>
 
