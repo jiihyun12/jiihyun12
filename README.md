@@ -72,7 +72,7 @@
   <img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" height="250" />
 </p> -->
 
----
+
 
 ## 📈 Activity Details
 <p align="left">
